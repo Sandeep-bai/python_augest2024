@@ -1,0 +1,12 @@
+DATA BASE NOTES 
+
+connection URL :
+http://localhost:3306
+
+Here 3306 is port number 
+localhost means we are connecting 
+
+
+
+
+MYSQL COMMANDS:
